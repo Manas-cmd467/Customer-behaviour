@@ -96,6 +96,8 @@ The data was cleaned and transformed using SQL before being visualized in a BI d
 - Targeted marketing toward high-performing age groups may improve ROI.
 - Subscription optimization strategies could enhance customer lifetime value.
 - KPI dashboards enable continuous business monitoring and performance tracking.
+
+## 📁 Repository Structure
 ```text
 Customer-Behavior-Analysis/
 │
@@ -134,4 +136,4 @@ This project demonstrates the ability to:
 
 ---
 
-## 📁 Repository Structure
+
